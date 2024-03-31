@@ -1,0 +1,92 @@
+### Javascript data structures and algorithms
+
+- [] Algorithm complexity:
+  - [x] Basic Theory
+    - [x] Time complexity
+    - [x] Space complexity
+    - [x] Calculate complexity
+  - [ ] Big O
+    - [ ] Common Runtimes
+      - [ ] Constant
+      - [ ] Logarithmic
+      - [ ] Linear
+      - [ ] Polynomial
+      - [ ] Exponential
+      - [ ] Factorial
+    - [ ] Asymptotic Notation
+      - [x] Big O Notation
+      - [x] Big θ Notation
+      - [x] Big Ω Notation
+- [ ] Data Structures:
+  - [ ] Linked lists
+  - [ ] Stack
+  - [ ] Queues
+  - [ ] Hash Tables
+  - [ ] Array
+    - [ ] Array Algorithm:
+      - [ ] Sort Algorithms:
+        - [x] Bubble sort
+        - [x] Insertion sort
+        - [x] Selection sort
+        - [ ] Merge sort
+        - [ ] Quick sort
+        - [ ] Heap sort
+      - [ ] Search Algorithms:
+        - [ ] Linear search
+        - [ ] Binary search
+  - [ ] Tree Data Structures
+    - [ ] Tree Kind:
+      - [ ] Binary trees
+      - [ ] Binary search trees
+      - [ ] AVL trees
+      - [ ] B-trees
+    - [ ] Tree Traversal
+      - [ ] In-order Traversal
+      - [ ] Pre-order Traversal
+      - [ ] Post-order Traversal
+    - [ ] Tree Algorithms:
+      - [ ] Breadth First search
+      - [ ] Depth First search
+  - [ ] Graph Data Structure
+    - [ ] Graph Kind:
+      - [ ] Undirected Graph
+      - [ ] Directed Graph
+    - [ ] Graph Algorithms:
+      - [ ] Search Algorithms:
+        - [ ] Breadth First Search
+        - [ ] Depth First Search
+      - [ ] Shortest Path Algos.
+        - [ ] Dijkstra's Algorithm
+        - [ ] Bellman-Ford
+      - [ ] Minimum Spanning Tree
+        - [ ] Prim's Algorithm
+        - [ ] Kruskal's Algorithm
+- [ ] Advanced Data Structures:
+  - [ ] Trie
+  - [ ] Segment Trees
+  - [ ] Fenwick Trees
+  - [ ] Disjoint Set (Union-Find)
+  - [ ] Suffix Trees and Arrays
+  - [ ] Trie
+- [ ] Complex Data Structures:
+  - [ ] B/B+ Trees
+  - [ ] Skip List
+  - [ ] ISAM
+  - [ ] 2-3 Trees
+- [ ] Indexing:
+  - [ ] Linear Indexing
+  - [ ] Tree-Based Indexing
+- [ ] Problem Solving Techniques
+  - [ ] Brute Force
+  - [ ] Greedy Algorithms
+  - [ ] Divide and Conquer
+  - [ ] Dynamic Programming
+  - [ ] Backtracking
+  - [ ] Randomised Algorithms
+  - [ ] Recursion
+  - [ ] Two Pointer Technique
+  - [ ] Sliding Window Technique
+
+
+More: https://github.com/Ren0503/javascript-algorithms-and-data-structure?tab=readme-ov-file
+
